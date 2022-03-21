@@ -33,11 +33,10 @@
   margin: auto -3rem;
   place-items: center;
   width: 4rem;
+  font-size: 3em;
   cursor: pointer;
 }
-.Card_hover_icon{
-  font-size: 3em;
-}
+
 .Card_hover {
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 2%;
